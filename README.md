@@ -1,0 +1,1 @@
+# Eclipse-Generics_FR
